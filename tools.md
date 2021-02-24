@@ -27,7 +27,7 @@ layout: default
 | [AllPairs](http://www.mcdowella.demon.co.uk/allPairs.html) | [McDowell] | Command-line, free | 
 | [Intelligent Test Case Handler (replaces CTS)](http://alphaworks.ibm.com/tech/whitch) | IBM | Free for non-commercial use | 
 | [CaseMaker](http://www.casemakerinternational.com/) | Díaz & Hilterscheid | GUI, commercial | 
-| [PICT](http://download.microsoft.com/download/f/5/5/f55484df-8494-48fa-8dbd-8c6f76cc014b/pict33.msi) | Microsoft Corp. | Command-line, open source at <a href="http://github.com/microsoft/pict">http://github.com/microsoft/pict</a> | 
+| [PICT](https://github.com/microsoft/pict/releases/download/release/pict.exe) | Microsoft Corp. | Command-line, open source at <a href="http://github.com/microsoft/pict">http://github.com/microsoft/pict</a> | 
 | [rdExpert](http://www.phadkeassociates.com/index_files/producthome.htm) | Phadke Associates, Inc. |  | 
 | [OATSGen](http://delivery.acm.org/10.1145/1250000/1241582/p2-krishnan.pdf?key1=1241582&key2=7825558711&coll=ACM&dl=ACM&CFID=15151515&CFTOKEN=6184618) | Motorola |  | 
 | [SmartTest](http://www.smartwaretechnologies.com/smarttestprod.htm) | Smartware Technologies Inc. | GUI, commercial | 
