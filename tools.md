@@ -60,6 +60,7 @@ layout: default
 | [AllPairsPy](https://github.com/thombashi/allpairspy/) | [Hombashi] | Python library | 
 | [Pairwise Pict Online](https://pairwise.yuuniworks.com/) | [Tamura] | PICT on the web | 
 | [CoverTable](https://github.com/walkframe/covertable) | [Yasuyuki] | Python and TypeScript. Open source | 
+| [UnitTestDesign](https://github.com/adolgert/UnitTestDesign.jl) | [Dolgert] | Julia library | 
 
 # Links
 * [Comparison of efficiency](./efficiency.md) 
