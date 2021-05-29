@@ -61,6 +61,7 @@ layout: default
 | [Pairwise Pict Online](https://pairwise.yuuniworks.com/) | [Tamura] | PICT on the web | 
 | [CoverTable](https://github.com/walkframe/covertable) | [Yasuyuki] | Python and TypeScript. Open source | 
 | [UnitTestDesign](https://github.com/adolgert/UnitTestDesign.jl) | [Dolgert] | Julia library | 
+| [Pairwise Generator](https://slothman.dev/pairwise-generator) | [Kuptsov] | Web-based |
 
 # Links
 * [Comparison of efficiency](./efficiency.md) 
