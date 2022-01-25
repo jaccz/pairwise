@@ -62,6 +62,7 @@ layout: default
 | [CoverTable](https://github.com/walkframe/covertable) | [Yasuyuki] | Python and TypeScript. Open source | 
 | [UnitTestDesign](https://github.com/adolgert/UnitTestDesign.jl) | [Dolgert] | Julia library | 
 | [Pairwise Generator](https://slothman.dev/pairwise-generator) | [Kuptsov] | Web-based |
+| [Kiwi TCMS](https://kiwitcms.org) | Open source community | Web-based. Supports manual testing. |
 
 # Links
 * [Comparison of efficiency](./efficiency.md) 
