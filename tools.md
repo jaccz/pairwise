@@ -63,6 +63,7 @@ layout: default
 | [UnitTestDesign](https://github.com/adolgert/UnitTestDesign.jl) | [Dolgert] | Julia library | 
 | [Pairwise Generator](https://slothman.dev/pairwise-generator) | [Kuptsov] | Web-based |
 | [Kiwi TCMS](https://kiwitcms.org) | Open source community | Web-based. Supports manual testing. |
+| [AllPairs4J](https://github.com/pavelicii/allpairs4j) | [Pavelicii] | Java library |
 
 # Links
 * [Comparison of efficiency](./efficiency.md) 
