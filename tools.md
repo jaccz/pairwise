@@ -46,7 +46,7 @@ layout: default
 | [Hexawise](http://hexawise.com/) | Hexawise | Web-based, free & commercial | 
 | [PictMaster](http://en.sourceforge.jp/projects/pictmaster/) | IWATSU System & Software | Spreadsheet-based, free | 
 | [NTestCaseBuilder](https://www.nuget.org/packages/NTestCaseBuilder/) | [Murphy] | .NET library | 
-| [tcases](https://code.google.com/p/tcases/) | [Kimbrough] | Command-line, free | 
+| [tcases](https://github.com/Cornutum/tcases) | [Kimbrough] | Command-line, Maven plugin, free | 
 | [Pairwiser](https://inductive.no/pairwiser/) | Inductive AS | Web-based, free & commercial | 
 | [NUnit](http://nunit.org/index.php?p=pairwise&r=2.6.4) | Poole et al | Unit test framework | 
 | [ecFeed](http://ecfeed.com/) | ecFeed AS | Standalone, Eclipse plug-in, and jUnit runner | 
