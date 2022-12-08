@@ -8,6 +8,7 @@ layout: default
 
 | Tool | Authors | Notes |
 | ---- | ---- | ---- |
+| [AnkrPt Pairwise](http://www.kimputing.com/pairwise) | Kimputing |  | 
 | [CATS (Constrained Array Test System)](http://testcover.com/pub/background/index.php) | [Sherwood] Bell Labs. |  | 
 | [OATS (Orthogonal Array Test System)](http://www.isixsigma.com/library/content/c030106a.asp) | [Phadke] ATT |  | 
 | [AETG](http://aetgweb.argreenhouse.com/) | Telecordia | Web-based, commercial | 
