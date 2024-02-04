@@ -64,6 +64,7 @@ layout: default
 | [Pairwise Generator](https://slothman.dev/pairwise-generator) | [Kuptsov] | Web-based |
 | [Kiwi TCMS](https://kiwitcms.org) | Open source community | Web-based. Supports manual testing. |
 | [AllPairs4J](https://github.com/pavelicii/allpairs4j) | [Pavelicii] | Java library |
+| [NWisePy](https://github.com/Oliver-242/ipo)) | [Jizhou Cai] | Python library |
 
 # Links
 * [Comparison of efficiency](./efficiency.md) 
