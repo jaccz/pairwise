@@ -24,3 +24,4 @@ Test generation efficiency is one aspect of a tool that a user will want to cons
 | 12 | ecFeed  | 10 | 19 | 37 | 28 | 16 | 203 | Supplied by Patryk Chamuczynski. |
 | 13 | JCUnit  | 10 | 23 | 49 | 33 | 18 | 245 | Supplied by Hiroshi Ukai [link](https://github.com/dakusui/jcunit/blob/0.8.x-develop/src/test/java/com/github/dakusui/jcunit8/experiments/StandardFactorSpaces.java). |
 | 14 | CoverTable  | 9 | 17 | 34 | 26 | 12 | 195 | CoverTable's [webpage](https://github.com/walkframe/covertable). |
+| 15 | LazyParams  | 10 | 20 | 45 | 33 | 16 | 288 | LazyParams' [webpage](https://github.com/lazyparams/lazyparams). Result is from test-class StandardReductionCountsTest (release 1.0.0) |

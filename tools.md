@@ -65,6 +65,7 @@ layout: default
 | [Kiwi TCMS](https://kiwitcms.org) | Open source community | Web-based. Supports manual testing. |
 | [AllPairs4J](https://github.com/pavelicii/allpairs4j) | [Pavelicii] | Java library |
 | [NWisePy](https://github.com/Oliver-242/ipo)) | [Jizhou Cai] | Python library |
+| [LazyParams](https://github.com/lazyparams/lazyparams) | LazyParams | Java library for unit test parameterization - Open Source |
 
 # Links
 * [Comparison of efficiency](./efficiency.md) 
