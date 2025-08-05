@@ -64,6 +64,7 @@ layout: default
 | [Pairwise Generator](https://slothman.dev/pairwise-generator) | [Kuptsov] | Web-based |
 | [Kiwi TCMS](https://kiwitcms.org) | Open source community | Web-based. Supports manual testing. |
 | [AllPairs4J](https://github.com/pavelicii/allpairs4j) | [Pavelicii] | Java library |
+| [LazyParams](https://github.com/lazyparams/lazyparams) | LazyParams | Java library for unit test parameterization - Open Source |
 
 # Links
 * [Comparison of efficiency](./efficiency.md) 
