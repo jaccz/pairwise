@@ -23,6 +23,6 @@ Test generation efficiency is one aspect of a tool that a user will want to cons
 | 11 | IPO-s  | 9 | 17 | 32 | 23 | 10 | 220 | A. Calvagna, A. Gargantini [IPO-s: Incremental Generation of Combinatorial Interaction Test Data Based on Symmetries of Covering Arrays](http://www2.computer.org/portal/web/csdl/doi/10.1109/ICSTW.2009.7), p. 17. |
 | 12 | ecFeed  | 10 | 19 | 37 | 28 | 16 | 203 | Supplied by Patryk Chamuczynski. |
 | 13 | JCUnit  | 10 | 23 | 49 | 33 | 18 | 245 | Supplied by Hiroshi Ukai [link](https://github.com/dakusui/jcunit/blob/0.8.x-develop/src/test/java/com/github/dakusui/jcunit8/experiments/StandardFactorSpaces.java). |
-| 14 | CoverTable  | 9 | 17 | 34 | 26 | 12 | 195 | CoverTable's [webpage](https://github.com/walkframe/covertable). |
+| 14 | CoverTable  | 9 | 15 | 28 | 20 | 10 | 187 | CoverTable's [performance page](https://github.com/walkframe/covertable#performance) (SA post-process, independently verified). |
 | 15 | LazyParams  | 10 | 20 | 45 | 33 | 16 | 288 | LazyParams' [webpage](https://github.com/lazyparams/lazyparams). Result is from test-class StandardReductionCountsTest (release 1.0.0) |
 | 16 | ProTest V2 | 9 | 15 | 28 | 22 | 10 | 192 | SigmaTest's [webpage](https://help.sigmazone.com/pro-test/v2/benchmarks). |
