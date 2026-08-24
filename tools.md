@@ -58,7 +58,7 @@ layout: default
 | [SQA Mate Tools: Pairwise](https://sqamate.com/tools/pairwise?rh=from.pairwise.org) | [Sotskov] | Web-based | 
 | [AllPairsPy](https://github.com/thombashi/allpairspy/) | [Hombashi] | Python library | 
 | [Pairwise Pict Online](https://pairwise.yuuniworks.com/) | [Tamura] | PICT on the web | 
-| [CoverTable](https://github.com/walkframe/covertable) | [Yasuyuki] | Python and TypeScript. Open source | 
+| [CoverTable](https://github.com/walkframe/covertable) | WalkFrame | Open source. [npm](https://www.npmjs.com/package/covertable) / [pypi](https://pypi.org/project/covertable/) / [online](https://covertable.walkframe.com/tools/pict) / [vscode-plugin](https://marketplace.visualstudio.com/items?itemName=walkframe.pict-covertable) | 
 | [UnitTestDesign](https://github.com/adolgert/UnitTestDesign.jl) | [Dolgert] | Julia library | 
 | [Pairwise Generator](https://slothman.dev/pairwise-generator) | [Kuptsov] | Web-based |
 | [Kiwi TCMS](https://kiwitcms.org) | Open source community | Web-based. Supports manual testing. |
